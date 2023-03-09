@@ -26,9 +26,9 @@
   width: 400px;
   height: 600px;
   padding: 14px;
-  background-color: #99c9ff;
+  background-color: #d5c7fa;
   border-radius: 20px;
-  border: 5px solid white;
+  border: 10px solid rgb(194, 169, 254);
 }
 
 .fila{
